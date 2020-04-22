@@ -15,7 +15,7 @@ type Student struct {
 
 }
 
-func main()  {
+func main() {
 	// newS := Student{
 	// 	Persion: Persion{
 	// 		Name:"petter",
@@ -28,7 +28,7 @@ func main()  {
 	// for i:=0;i< valueOf.NumField();i++{
 	// 	fmt.Println(valueOf.Field(i))
 	// }
-	date := "2019-04-02"
-	day := DayOfYear(date)
-	fmt.Println(day)
+	str := ""
+	palindrome1 := IsPalindrome1(str)
+	fmt.Println(palindrome1)
 }
