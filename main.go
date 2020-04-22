@@ -28,14 +28,7 @@ func main()  {
 	// for i:=0;i< valueOf.NumField();i++{
 	// 	fmt.Println(valueOf.Field(i))
 	// }
-	a := make([]int,7)
-	list1 := []int{1,2,4,6,4,5}
-	nums2 := FindErrorNums2(list1)
-	fmt.Println(nums2)
-	for i:=0;i<len(list1);i++{
-		a[list1[i]]++
-	}
-	fmt.Println(list1)
-	fmt.Println(a)
-
+	date := "2019-04-02"
+	day := DayOfYear(date)
+	fmt.Println(day)
 }
