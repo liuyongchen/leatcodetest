@@ -1,4 +1,4 @@
-package main
+package caseInterView
 
 import (
 	"container/list"

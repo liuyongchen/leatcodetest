@@ -1,4 +1,4 @@
-package main
+package binaryTree
 
 
 // Given a binary tree, imagine yourself standing on the right side of it,
