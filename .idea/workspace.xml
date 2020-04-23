@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f34461-df48-4365-886b-a6e9289d1bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binaryTree/101. Symmetric_Tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caseInterView/08.11. Coin LCCI.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/160. Intersection_of_Two_Linked_Lists.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkList/141. Linked List Cycle.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/199. Binary_Tree_Right_Side_View.go" beforeDir="false" afterPath="$PROJECT_DIR$/binaryTree/199. Binary_Tree_Right_Side_View.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题06. 从尾到头打印链表.go" beforeDir="false" afterPath="$PROJECT_DIR$/caseInterView/面试题06. 从尾到头打印链表.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binaryTree/101. Symmetric_Tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/binaryTree/101. Symmetric_Tree.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
