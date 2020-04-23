@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f34461-df48-4365-886b-a6e9289d1bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkList/141. Linked List Cycle.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binaryTree/101. Symmetric_Tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/binaryTree/101. Symmetric_Tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/141. Linked List Cycle.go" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/141. Linked List Cycle.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

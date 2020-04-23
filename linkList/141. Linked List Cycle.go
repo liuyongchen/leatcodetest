@@ -17,6 +17,22 @@ func hasCycle(head *ListNode) bool {
 	return false
 }
 
+//快慢指针2
+func hasCycle1(head *ListNode) bool {
+	if head == nil || head.Next == nil{
+		return false
+	}
+	fast,slow := head.Next,head
+	for fast != slow {
+		if fast==nil || fast.Next==nil{
+			return false
+		}
+		fast = fast.Next.Next
+		slow = slow.Next
+	}
+	return true
+}
+
 
 //2、哈希表
 func hasCycle2(head *ListNode) bool {
