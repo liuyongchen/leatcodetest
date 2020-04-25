@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkList/206. Reverse Linked List.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkList/203. Remove_Linked_List_Elements.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,5 +47,15 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="153" width="1200" height="574" key="DiffContextDialog" timestamp="1587777742022">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="140" y="153" width="1200" height="574" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1587777742022" />
+    <state x="502" y="163" key="VCS.ChangeListViewerDialog" timestamp="1587777758780">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="502" y="163" key="VCS.ChangeListViewerDialog/0.23.1440.804@0.23.1440.804" timestamp="1587777758780" />
   </component>
 </project>
