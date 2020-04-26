@@ -1,18 +1,15 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type Persion struct {
 	Name string
-	Age int64
+	Age  int64
 }
 
 type Student struct {
 	Persion Persion
-	Grade string
-
+	Grade   string
 }
 
 func main() {
@@ -28,7 +25,7 @@ func main() {
 	// for i:=0;i< valueOf.NumField();i++{
 	// 	fmt.Println(valueOf.Field(i))
 	// }
-	str := ""
-	palindrome1 := IsPalindrome1(str)
-	fmt.Println(palindrome1)
+	a := []int{1, 2, 3}
+	permute := Permute(a)
+	fmt.Println(permute)
 }

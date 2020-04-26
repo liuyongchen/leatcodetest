@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkList/203. Remove_Linked_List_Elements.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46. Permutations.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +30,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build leatcodetest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="leatcodetest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build leatcodetest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,16 +61,48 @@
       <option name="presentableId" value="Default" />
       <updated>1587653148429</updated>
     </task>
+    <task id="LOCAL-00001" summary="203.Remove_Linked_List_Elements">
+      <created>1587784419470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587784419470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="203.Remove_Linked_List_Elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="203.Remove_Linked_List_Elements" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="36" key="CommitChangelistDialog2" timestamp="1587784419152">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="0" y="36" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1587784419152" />
     <state x="140" y="153" width="1200" height="574" key="DiffContextDialog" timestamp="1587777742022">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="140" y="153" width="1200" height="574" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1587777742022" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom" timestamp="1587824278772">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587824278772" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center" timestamp="1587824278764">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587824278764" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left" timestamp="1587824278763">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587824278763" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right" timestamp="1587824278765">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587824278765" />
     <state x="502" y="163" key="VCS.ChangeListViewerDialog" timestamp="1587777758780">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
