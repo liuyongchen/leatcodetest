@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="" />
+    <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7. Reverse Integer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88. Merge_Sorted_Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseInterView/面试题 02.07. 链表相交.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseInterView/面试题24. 反转链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseInterView/面试题28. 对称的二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseInterView/面试题55 - II. 平衡二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkList/92. Reverse_Linked_List_II.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/160. Intersection_of_Two_Linked_Lists.go" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/160. Intersection_of_Two_Linked_Lists.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -105,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="203.Remove_Linked_List_Elements" />
     <MESSAGE value="226，617，23" />
-    <option name="LAST_COMMIT_MESSAGE" value="226，617，23" />
+    <MESSAGE value="面试题18.删除链表的结点" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题18.删除链表的结点" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="36" key="CommitChangelistDialog2" timestamp="1587784419152">
