@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type Persion struct {
 	Name string
@@ -25,7 +27,7 @@ func main() {
 	// for i:=0;i< valueOf.NumField();i++{
 	// 	fmt.Println(valueOf.Field(i))
 	// }
-	a := []int{1, 2, 3}
-	permute := Permute(a)
-	fmt.Println(permute)
+	a := 10
+	happy := isHappy(a)
+	fmt.Println(happy)
 }
