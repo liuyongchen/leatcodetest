@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/202. Happy_Number.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathtest/167. Two_Sum_II_-_Input_array_is_sorted.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathtest/35. Search_Insert_Position.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,8 @@
     <MESSAGE value="20200427 7 个题" />
     <MESSAGE value="20200428 5 个题" />
     <MESSAGE value="20200429 2 个题" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200429 2 个题" />
+    <MESSAGE value="20200430 1 个题" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200430 1 个题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="36" key="CommitChangelistDialog2" timestamp="1587784419152">
