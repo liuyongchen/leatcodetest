@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d3ba4-98dc-4de6-8c76-ec35f221336f" name="Default Changelist" comment="">
-
       <change afterPath="$PROJECT_DIR$/mathtest/167. Two_Sum_II_-_Input_array_is_sorted.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mathtest/35. Search_Insert_Position.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/binaryTree/98. Validate_Binary_Search_Tree.go" afterDir="false" />
@@ -101,6 +100,7 @@
     <MESSAGE value="20200428 5 个题" />
     <MESSAGE value="20200429 2 个题" />
     <MESSAGE value="20200430 1 个题" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="20200430 1 个题" />
 =======
     <MESSAGE value="46.Permutations" />
@@ -150,5 +150,25 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="529" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.804@0.23.1440.804" timestamp="1588304206790" />
+=======
+    <MESSAGE value="35、167" />
+    <option name="LAST_COMMIT_MESSAGE" value="35、167" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="36" key="CommitChangelistDialog2" />
+    <state x="0" y="36" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" />
+    <state x="140" y="153" width="1200" height="574" key="DiffContextDialog" />
+    <state x="140" y="153" width="1200" height="574" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" />
+    <state x="502" y="163" key="VCS.ChangeListViewerDialog" />
+    <state x="502" y="163" key="VCS.ChangeListViewerDialog/0.23.1440.804@0.23.1440.804" />
+>>>>>>> Stashed changes
   </component>
 </project>
