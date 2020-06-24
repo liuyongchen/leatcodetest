@@ -7,13 +7,11 @@ import (
 //快慢指针
 func isHappy(n int) bool {
 	slow, fast := n, step(n)
-	fmt.Println("进入", fast)
 	for fast != 1 && slow != fast {
 		slow = step(slow)
 		fast = step(step(fast))
 		fmt.Println(fast)
 	}
-	fmt.Println("退出", fast)
 	return fast == 1
 }
 
