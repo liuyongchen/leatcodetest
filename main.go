@@ -30,4 +30,6 @@ func main() {
 	a := 10
 	happy := isHappy(a)
 	fmt.Println(happy)
+	v := '('
+	fmt.Printf("%T", v)
 }
