@@ -138,3 +138,39 @@ func check(now *Node, str string, idx int) bool {
 // 链接：https://leetcode-cn.com/problems/regular-expression-matching/solution/yi-bu-dao-wei-zhi-jie-an-zheng-ze-biao-da-shi-de-s/
 // 来源：力扣（LeetCode）
 // 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+func isMatch2(s, p string) bool {
+	if s == p {
+		return true
+	}
+	if len(p) > 1 && p[1] == '*' {
+		switch p[0] {
+		case '.':
+			for i := 0; i <= len(s); i++ {
+				if isMatch2(s[i:], p[2:]) {
+					return true
+				}
+			}
+		default:
+			if isMatch2(s, p[2:]) {
+				return true
+			}
+
+			for i := 0; i < len(s) && s[i] == p[0]; i++ {
+				if isMatch2(s[i+1:], p[2:]) {
+					return true
+				}
+			}
+
+		}
+	} else {
+		if s == "" || p == "" {
+			return false
+		}
+		if s[0] == p[0] || p[0] == '.' {
+			return isMatch2(s[1:], p[1:])
+		}
+	}
+
+	return false
+}
